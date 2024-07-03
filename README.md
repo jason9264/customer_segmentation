@@ -1,4 +1,4 @@
-# Envestnet User Segmentation Project
+# Consumer Segmentation Project
 
 ## Prerequsites
 Make sure Python version 3.11.6 or greater is installed.
